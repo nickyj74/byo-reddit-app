@@ -1,3 +1,68 @@
+<h1> Build_Your_Own_Reddit_App </h1>
+
+<!--- Portfolio Project - Build Your Own Reddit App from Codecademy Full Stack Engineer course --->
+
+<!--- Write a README (using Markdown) that documents your project including:
+- Wireframes
+- Technologies used
+- Features
+- Future work --->
+
+<div>
+  <h2>Wireframes <br/></h2>
+    <p>
+      - The app has been designed to work in all modern browsers and any device, from desktop to mobile.<br />
+      - There is a simple URL which allows users to access the application.<br />
+      - When items are selected the user will be able to see a detailed view (modal or new page/route).  <br />
+      - There will be a cohesive design system and animation and transitions to lift the feel of the application and improve the user experience.<br />
+  </p>
+</div>
+
+<br />
+
+<div>
+  <h2>Technologies used <br/></h2>
+    <p>
+      - This is an app built with React and Redux and hosted in my GitHub respository here, named Build_Your_Own_Portfolio_Project. <br />
+      - Unit tests for components using Jest and Enzyme will appear throughout the application and an end-to end test will complete this area. <br />
+    </p>
+
+  
+</div>
+
+<br />
+
+<div>
+  <h2>Features <br/></h2>
+    <p>
+      - When first visiting there will be an initial view of the data and users will be able to search data using different terms.<br />
+      - Data can be filtered based on predefined categories.<br />
+    </p>
+
+
+  
+</div>
+
+<br />
+
+<div>
+  <h2>Future work <br /></h2>
+    <p>
+      - If users encounter an error state, there is a way to leave it.<br />
+      - The goal will be to score over 90 on Lighthouse.<br />
+    </p>
+</div>
+
+<br />
+  
+
+---------------------------------
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
