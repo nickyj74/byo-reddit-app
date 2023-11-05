@@ -2,11 +2,6 @@
 
 <!--- Portfolio Project - Build Your Own Reddit App from Codecademy Full Stack Engineer course --->
 
-<!--- Write a README (using Markdown) that documents your project including:
-- Wireframes
-- Technologies used
-- Features
-- Future work --->
 
 <div>
   <h2>Wireframes <br/></h2>
@@ -24,10 +19,7 @@
   <h2>Technologies used <br/></h2>
     <p>
       - This is an app built with React JS and hosted here in my GitHub respository - Build_Your_Own_Portfolio_Project. <br />
-      ## STILL TO WRITE - Unit tests for components using Jest and Enzyme will appear throughout the application and an end-to end test will complete this area. <br />
     </p>
-
-  
 </div>
 
 <br />
@@ -37,12 +29,7 @@
     <p>
       - When first visiting there will be an initial view of the chosen search parameter (Popular). Users can amend the search data to search for a feed based on their own preferences.<br />
       - If users encounter an error state, there will be a message logged to the browser to show that there is an error, and they are then able to search a different term and move on from this error state.  Any errors are also logged to the console.
-     
-      ## STILL TO WRITE - Data can be filtered based on predefined categories.<br />
-    </p>
-
-
-  
+    </p> 
 </div>
 
 <br />
@@ -58,10 +45,13 @@
   
 
 ---------------------------------
+## STILL TO WRITE 
+## - Unit tests for components using Jest and Enzyme will appear throughout the application and an end-to end test will complete this area. 
+## - Data can be filtered based on predefined categories.
 
 
 
-
+--------------------------------
 
 
 # Getting Started with Create React App
