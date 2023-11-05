@@ -45,9 +45,9 @@
   
 
 ---------------------------------
-## STILL TO WRITE 
-## - Unit tests for components using Jest and Enzyme will appear throughout the application and an end-to end test will complete this area. 
-## - Data can be filtered based on predefined categories.
+# STILL TO WRITE 
+ - Unit tests for components using Jest and Enzyme will appear throughout the application and an end-to end test will complete this area. 
+ - Data can be filtered based on predefined categories.
 
 
 
