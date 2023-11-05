@@ -48,6 +48,10 @@
 # STILL TO WRITE 
  - Unit tests for components using Jest and Enzyme will appear throughout the application and an end-to end test will complete this area. 
  - Data can be filtered based on predefined categories.
+ - TODO - Deploy using Netlify... can do this one evening, quick netlify tutorial to complete this section
+ - OPTIONAL: Get a custom domain name and use it for your application
+ - OPTIONAL: Set up a CI/CD workflow to automatically deploy your application when the master branch in the repository changes
+ - OPTIONAL: Make your application a progressive web app
 
 
 
