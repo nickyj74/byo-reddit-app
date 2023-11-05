@@ -56,3 +56,11 @@ header:before {
 .articles article:hover {
   background-image: linear-gradient(to left, goldenrod, blanchedalmond);
 }
+
+.root {
+  background: "white";
+ 
+  @media (max-width: 1920px) {
+    background: "red";
+  }
+}
