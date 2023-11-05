@@ -13,8 +13,8 @@
     <p>
       - The app has been designed to work in all modern browsers and any device, from desktop to mobile.<br />
       - There is a simple URL which allows users to access the application.<br />
-      - When items are selected the user will be able to see a detailed view (modal or new page/route).  <br />
-      - There will be a cohesive design system and animation and transitions to lift the feel of the application and improve the user experience.<br />
+      - When items are selected the user will be able to see a detailed view on a new page.  <br />
+      - It is a simple design using colours to draw users towards individual links and to differentiate between each link.<br />
   </p>
 </div>
 
@@ -23,8 +23,8 @@
 <div>
   <h2>Technologies used <br/></h2>
     <p>
-      - This is an app built with React and Redux and hosted in my GitHub respository here, named Build_Your_Own_Portfolio_Project. <br />
-      - Unit tests for components using Jest and Enzyme will appear throughout the application and an end-to end test will complete this area. <br />
+      - This is an app built with React JS and hosted here in my GitHub respository - Build_Your_Own_Portfolio_Project. <br />
+      ## STILL TO WRITE - Unit tests for components using Jest and Enzyme will appear throughout the application and an end-to end test will complete this area. <br />
     </p>
 
   
@@ -35,8 +35,10 @@
 <div>
   <h2>Features <br/></h2>
     <p>
-      - When first visiting there will be an initial view of the data and users will be able to search data using different terms.<br />
-      - Data can be filtered based on predefined categories.<br />
+      - When first visiting there will be an initial view of the chosen search parameter (Popular). Users can amend the search data to search for a feed based on their own preferences.<br />
+      - If users encounter an error state, there will be a message logged to the browser to show that there is an error, and they are then able to search a different term and move on from this error state.  Any errors are also logged to the console.
+     
+      ## STILL TO WRITE - Data can be filtered based on predefined categories.<br />
     </p>
 
 
@@ -48,8 +50,7 @@
 <div>
   <h2>Future work <br /></h2>
     <p>
-      - If users encounter an error state, there is a way to leave it.<br />
-      - The goal will be to score over 90 on Lighthouse.<br />
+      ONCE COMPLETED - The goal will be to score over 90 on Lighthouse.<br />
     </p>
 </div>
 
